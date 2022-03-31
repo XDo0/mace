@@ -14,7 +14,7 @@ Install
 ---------------
 
 ```sh
-# running after build step and in `mace/exampls/android` directory
+# running after build step and in `mace/examples/android` directory
 adb install ./app/build/outputs/apk/app/release/app-app-release.apk
 ```
 
